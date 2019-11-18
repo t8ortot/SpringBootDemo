@@ -1,5 +1,5 @@
 # SpringBootDemo
- A demo to create a Web API using Spring Boot
+A demo to create a Web API using Spring Boot's Spring MVC dependency.
 
 This demo follows the implementation given by Amigos Code's tutorial, found [here](https://www.youtube.com/watch?v=vtPkZShrvXQ).
 
