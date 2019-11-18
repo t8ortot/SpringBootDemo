@@ -11,7 +11,7 @@ This demo follows the implementation given by Amigos Code's tutorial, found [her
 By using a tool like Postman, a user can make API requests to port 8080 at this URI: localhost:8080/api/v1/person
 - The user can get a list of all people in the database as JSON by sending a GET to localhost:8080/api/v1/person
 - The user can get a specifific person by id in the database as JSON by sending a GET to localhost:8080/api/v1/person/**(insert id)**
-- The user can add People to the in-memory database by sending a POST to localhost:8080/api/v1/person with a JSON body containing the name:
+- The user can add people to the in-memory database by sending a POST to localhost:8080/api/v1/person with a JSON body containing the name:
 ```json
 {
 	"name": "Richard Hendricks"
